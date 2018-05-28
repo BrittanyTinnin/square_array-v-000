@@ -5,5 +5,4 @@ def square_array(array)
     number**2
   array
   end
-  binding.pry
 end
