@@ -6,5 +6,4 @@ def square_array(array)
     number ** 2
   end
   new_array << array
-  puts new_array.inspect
 end
